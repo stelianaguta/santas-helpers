@@ -11,6 +11,13 @@ This simple  HTML5/CSS/JS + PHP/SQL app is made with the one single purpose in m
 get as many helpers as possible. Being online will make this more visible and hopefully Santa
 will actually come. If he doesn't that means there weren't enough helpers....
 
+Screenshots
+-------
+
+![Signup](https://github.com/stelianaguta/santas-helpers/screenshots/santas_helpers_signup.png)
+![Thank you](https://github.com/stelianaguta/santas-helpers/screenshots/santas_helpers_thankyou.png)
+![List](https://github.com/stelianaguta/santas-helpers/screenshots/santas_helpers_list.png)
+
 Technical details
 -------
 
@@ -20,6 +27,7 @@ Technical details
 * defined custom jQuery validation rule/method
 * custom error & standard messages
 * [jQuery datepicker](http://jqueryui.com/datepicker/)
+* tested in Safari, Chrome, Opera, Firefox
 
 ### PHP & SQL :
 * used i18N dictionary with messages in English and French (extensible to other languages)
