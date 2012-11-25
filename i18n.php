@@ -14,6 +14,12 @@ $language_en["i_am_a_toy_craftsman"] = "I am a toy craftsman";
 $language_en["i_can_read_letters_all_day_long"] = "I can read letters all day long";
 $language_en["i_love_to_feed_reindeers"] = "I love to feed reindeers";
 $language_en["i_can_sing_and_dance_like_no_other"] = "I can sing &amp dance like no other";
+
+// LIST
+$language_en["skills"] = "Skills";
+$language_en["birth_day_word"] = "Birth day";
+
+
 //BUTTONS
 $language_en["show_me_the_helpers"] = "Show me the helpers";
 $language_en["i_want_to_become_one"] = "I want to become one";
@@ -49,6 +55,10 @@ $language_fr["i_am_a_toy_craftsman"] = "Je suis un artisan des jouets";
 $language_fr["i_can_read_letters_all_day_long"] = "Je peux lire des lettres toute la journee";
 $language_fr["i_love_to_feed_reindeers"] = "J'aime a nourrir des rennes";
 $language_fr["i_can_sing_and_dance_like_no_other"] = "Je peux chanter et danser comme personne d'autre";
+
+// LIST
+$language_fr["skills"] = "Competences";
+$language_fr["birth_day_word"] = "Anniversaire";
 
 //BUTTONS
 $language_fr["show_me_the_helpers"] = "Montrez-moi les assistants";

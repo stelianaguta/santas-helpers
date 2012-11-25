@@ -25,8 +25,8 @@
 	        	      	 	<th><?php echo $I18N[$DEFAULT_LANGUAGE]["first_name"];?></tg>
 	        	      	 	<th><?php echo $I18N[$DEFAULT_LANGUAGE]["last_name"];?></th>
 	        	      	 	<th><?php echo $I18N[$DEFAULT_LANGUAGE]["username"];?></th>
-	        	      	 	<th>Birth day</th>
-	        	      	 	 <th>Skills</th>
+	        	      	 	<th><?php echo $I18N[$DEFAULT_LANGUAGE]["birth_day_word"];?></th>
+	        	      	 	<th><?php echo $I18N[$DEFAULT_LANGUAGE]["skills"];?></th>
 							</tr>
 		<?php 
    		$result = mysql_query("SELECT * FROM users ORDER BY first_name ASC");
