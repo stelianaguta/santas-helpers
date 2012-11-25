@@ -1,0 +1,160 @@
+/*!
+ * Santa's helpers CSS
+ */
+
+* {
+	margin: 0;
+	padding: 0;
+}
+body {
+	background: #f5f5f5;
+	font-family: 'Average Sans', sans-serif;;
+}
+
+.container {
+	margin: 0 auto;
+}
+
+header {
+	background: #C1C9C8;
+	text-align: center;
+	position: relative;
+	background-image: url(../images/snow.png);
+	background-repeat: repeat;
+}
+
+.text{
+	font-size: 150%;
+	color: #333;
+}
+.wrap-text{
+    margin-top:-30px;
+}
+
+.wrap-text li{
+	list-style: none;
+	text-decoration: none;
+	cursor: pointer;
+}
+
+.wrap-text a, .wrap-text a:active{
+	color: #f2f2f2;
+	text-decoration: none;
+}
+.wrap-text a:hover{
+	color: #C1C9C8;
+	text-decoration: none;
+}    
+section {
+	position: relative;
+}
+
+.page {
+	text-align: center;
+	background: #ffffff;
+	margin-top: 4px;
+	height: auto;
+	border-radius: 3px;
+	-moz-border-radius: 3px;
+	-webkit-border-radius: 3px; 
+}
+
+
+.one-two {
+	height: auto;
+}
+
+.signup-form {
+	height: 100%;
+	border: 1px dashed #e0e0e0;
+	background: #D4D1A5;
+	margin-top: -4px;
+}
+
+
+input{
+	padding: 5px;
+	width: 80%;
+	font-size: 100%;
+	margin: 0px 0px 10px 0px;
+	background: #FAFAFA;
+	color: #999;
+	border: 1px dashed #e0e0e0;
+	-moz-border-radius: 10px;
+	-webkit-border-radius: 10px;
+	border-radius: 10px;
+	overflow: hidden;
+}
+
+.error{
+	color: #0D6759;
+	overflow: hidden;
+}
+
+button, select{
+	padding: 5px;
+	width: 81%;
+	font-size: 100%;
+	margin: 0px 0px 10px 0px!important;
+	background: #FAFAFA;
+	color: #999;
+	border: 1px dashed #e0e0e0;
+	-moz-border-radius: 10px;
+	-webkit-border-radius: 10px;
+	border-radius: 10px;
+	overflow: hidden;
+	border: 4px solid transparent;
+}
+
+button, html input[type="button"],
+input[type="reset"],
+input[type="submit"] {
+	width: 30%;
+	margin: 0px 0px 10px 0px;
+	background: #FAFAFA;
+	color: #2A2A2A;
+	font-weight: bold;
+	font-size: 0.8em;
+	background: #FAFAFA;
+	color: #999;
+	border: 1px dashed #e0e0e0;
+	-moz-border-radius: 10px;
+	-webkit-border-radius: 10px;
+	border-radius: 10px;
+	overflow: hidden;
+}
+input[type="radio"], input[type="checkbox"]{
+	width: 2%;
+	margin: -2px 3px 4px 0px;
+	background: #FAFAFA;
+	color: #2A2A2A;
+	font-weight: bold;
+	font-size: 0.8em;
+	background: #FAFAFA;
+	color: #999;
+	border: 1px dashed #e0e0e0;
+	-moz-border-radius: 10px;
+	-webkit-border-radius: 10px;
+	border-radius: 10px;
+	overflow: hidden;
+
+}
+
+.table{
+	width:100%;
+	position: relative;
+}
+
+.table tr{
+	height: 27px;
+	font-size: 100%;
+}	
+	
+footer {
+	text-align: center;
+	padding-top: 40px;
+	height: 90px;
+	background: #3333;
+	background-image: url(../images/winter.png);
+	background-repeat: repeat-x;
+}
