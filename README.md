@@ -15,11 +15,11 @@ Technical details
 -------
 
 ### HTML/CSS & JavaScript :
-* (Twitter Bootstrap fluid grid)[http://twitter.github.com/bootstrap/scaffolding.html#fluidGridSystem] for responsive layouts 
-* (jQuery and jQuery validation)[(http://docs.jquery.com/Plugins/Validation] for form validation
+* [Twitter Bootstrap fluid grid](http://twitter.github.com/bootstrap/scaffolding.html#fluidGridSystem) for responsive layouts 
+* [jQuery and jQuery validation](http://docs.jquery.com/Plugins/Validation) for form validation
 * defined custom jQuery validation rule/method
 * custom error & standard messages
-* (jQuery datepicker)[http://jqueryui.com/datepicker/]
+* [jQuery datepicker](http://jqueryui.com/datepicker/)
 
 ### PHP & SQL :
 * used i18N dictionary with messages in English and French (extensible to other languages)
@@ -39,5 +39,5 @@ Deployment instructions
 2. create an mySQL database and add username/password credentials for it
 3. fill in the placeholders in settings.php so that the application knows how to connect to your DB
 4. execute the SQL script in "deployment/init_database.sql" to create the table(s) inside the database 
-5. copy the entire folder "santas-helpers" into the web document of a PHP5 enabled web server (ie. Apache HTTPD)
+5. copy the entire folder "santas-helpers" into the web root of a PHP5 enabled web server (ie. Apache HTTPD)
 6. DONE. Use your browser to access http://your_domain/santas-helpers/  
