@@ -14,9 +14,9 @@ will actually come. If he doesn't that means there weren't enough helpers....
 Screenshots
 -------
 
-![Signup](https://github.com/stelianaguta/santas-helpers/screenshots/santas_helpers_signup.png)
-![Thank you](https://github.com/stelianaguta/santas-helpers/screenshots/santas_helpers_thankyou.png)
-![List](https://github.com/stelianaguta/santas-helpers/screenshots/santas_helpers_list.png)
+![Signup](https://github.com/stelianaguta/santas-helpers/blob/master/screenshots/santas_helpers_signup.png)
+![Thank you](https://github.com/stelianaguta/santas-helpers/blob/master/screenshots/santas_helpers_thankyou.png)
+![List](https://github.com/stelianaguta/santas-helpers/blob/master/screenshots/santas_helpers_list.png)
 
 Technical details
 -------
